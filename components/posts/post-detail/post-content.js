@@ -71,14 +71,16 @@ import classes from './post-content.module.css';
 // export default PostContent;
 
 const DUMMY_POST =
-{
-  slug:'getting-started1',
-  title:'getting-started-with-nextjs',
-  image:'6.jpeg',
-  date:'2022-3-4',
-  content:'# This is a first post',
 
-}
+  {
+    slug:'getting-started1',
+    title:'1',
+    image:'6.jpeg',
+    date:'2022-3-4',
+    content:'# This is a first post',
+
+  }
+
 
 function PostContent(){
   const imagePath = `/images/posts/${DUMMY_POST.slug}/${DUMMY_POST.image}`

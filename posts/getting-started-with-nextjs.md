@@ -1,8 +1,8 @@
 ---
-title: 'Personal Profile'
-date: '2021-10-16'
-image: getting-started-nextjs.jpeg
-excerpt: NextJS is a the React framework for production
+title: '1'
+date: '2022-10-16'
+image: 1.jpg
+excerpt: NextJS is a the React framework for production 
 isFeatured: true
 ---
 
